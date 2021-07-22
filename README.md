@@ -1,5 +1,5 @@
-<div style="text-align:center"><![Header](https://github.com/Uzhastin-Nikita/Uzhastin-Nikita/blob/main/assets/naruto1.gif)>
-</div>
+<p align="center">
+  <img src="https://github.com/Uzhastin-Nikita/Uzhastin-Nikita/blob/main/assets/naruto1.gif" width="750px" height="300px"/></p>
 
 
 ### My email:
