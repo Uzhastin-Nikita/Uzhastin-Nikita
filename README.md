@@ -1,7 +1,8 @@
 <div style="text-align:center">![Header](https://github.com/Uzhastin-Nikita/Uzhastin-Nikita/blob/main/assets/naruto1.gif)
 </div>
 
-<div style="text-align:center">![Email](https://img.shields.io/badge/nikita.uzhastin@gmail.com-000033?style=flat-square&logo=google)</div>
+### My email:
+![Email](https://img.shields.io/badge/nikita.uzhastin@gmail.com-000033?style=flat-square&logo=google)</div>
 
 
 ### I am Nikita, a begginer Python developer. I am studying at the Ivanovo State University of Chemistry and Technology. I like to read and play computer games
