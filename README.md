@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Uzhastin-Nikita/Uzhastin-Nikita/blob/main/assets/naruto1.gif" width="750px" height="300px"/></p>
-
-
 ### My email:
 ![Email](https://img.shields.io/badge/nikita.uzhastin@gmail.com-000033?style=flat-square&logo=google)
 
