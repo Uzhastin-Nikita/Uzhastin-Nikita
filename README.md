@@ -1,5 +1,5 @@
 ## My email:
-![Email](https://img.shields.io/badge/nikita.uzhastin@gmail.com-000033?style=flat-square&logo=google)
+![Gmail](https://img.shields.io/badge/nikita.uzhastin@gmail.com?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 # Hello there 👋
@@ -17,9 +17,9 @@ To-do: Learn Python
 ![snake gif](https://github.com/Naozumi520/Naozumi520/blob/output/N_github-snake.gif)
 
 ## Skills 🚀
-![Python](https://img.shields.io/badge/Python-000033?style=for-the-badge&logo=python)
-![GitHub](https://img.shields.io/badge/GitHub-000033?style=for-the-badge&logo=GitHub)
-![Git](https://img.shields.io/badge/Git-000033?style=for-the-badge&logo=Git)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Operating systems 💻
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)'
