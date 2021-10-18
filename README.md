@@ -5,11 +5,14 @@
 # Hello there 👋
 
 ## Basic info 📝
-Name: Nikita
+Name: Nikita  
 Job: Student  
-Location: Russia, Ivanovo
+Location: Russia, Ivanovo  
 Hobby: Coding  
-To-do: Learn Python 
+To-do: Learn Python
+
+
+  
 
 ![snake gif](https://github.com/Naozumi520/Naozumi520/blob/output/N_github-snake.gif)
 
@@ -30,4 +33,4 @@ To-do: Learn Python
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzhastin-Nikita)](https://github.com/Uzhastin-Nikita/github-readme-stats)
 
 ## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzhastin-Nikita520&layout=compact)](https://github.com/Uzhastin-Nikita)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzhastin-Nikita&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
