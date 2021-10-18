@@ -22,7 +22,8 @@ To-do: Learn Python
 ![Git](https://img.shields.io/badge/Git-000033?style=for-the-badge&logo=Git)
 
 ## Operating systems 💻
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)'
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
 ## Social links 🤝
 [![VK](https://img.shields.io/badge/VK-000033?style=flat-square&logo=VK)](https://vk.com/starosta_starost)
