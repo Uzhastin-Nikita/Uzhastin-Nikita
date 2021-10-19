@@ -1,6 +1,3 @@
-## My email:
-![Gmail](https://img.shields.io/badge/nikita.uzhastin@gmail.com?style=for-the-badge&logo=gmail&logoColor=white)
-
 
 # Hello there 👋
 
