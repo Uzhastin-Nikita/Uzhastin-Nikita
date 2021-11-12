@@ -37,4 +37,4 @@ To-do: Learn Python
 ## Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzhastin-Nikita&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Uzhastin-Nikita)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Uzhastin-Nikita)](https://github.com/Uzhastin-Nikita/github-readme-stats)
