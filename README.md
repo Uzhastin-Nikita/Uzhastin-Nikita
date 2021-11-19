@@ -6,7 +6,7 @@ Name: Nikita
 Job: Student  
 Location: Russia, Ivanovo  
 Hobby: Coding  
-To-do: Learn Python
+To-do: Learn Python and JS
 
 
   
