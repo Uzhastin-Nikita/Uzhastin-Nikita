@@ -38,4 +38,4 @@ To-do: Learn Python and JS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzhastin-Nikita&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Codewars
-[![CodeWars](https://www.codewars.com/users/Uzhastin-Nikita/badges/large)
+![CodeWars](https://www.codewars.com/users/Uzhastin-Nikita/badges/large)
