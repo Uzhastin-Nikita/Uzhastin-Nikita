@@ -3,7 +3,7 @@
 
 ## Basic info 📝
 Name: Nikita  
-Job: Student  
+Job: Student, Teacher at the Unikum Educational Center
 Location: Russia, Ivanovo  
 Hobby: Coding  
 To-do: Learn Python and JS
