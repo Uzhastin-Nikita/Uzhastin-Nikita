@@ -2,7 +2,7 @@
 # Hello there 👋
 
 ## Basic info 📝
-Name: Nikita  
+
 Job: Student, Teacher at the Unikum Educational Center  
 Location: Russia, Ivanovo  
 Hobby: Coding  
