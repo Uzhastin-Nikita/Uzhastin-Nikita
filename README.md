@@ -36,7 +36,6 @@ To-do: Learn Python and JS
 
 ### My Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzhastin-Nikita)](https://github.com/Uzhastin-Nikita/github-readme-stats)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzhastin-Nikita&theme=blue-green)
 
 ## Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzhastin-Nikita&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
