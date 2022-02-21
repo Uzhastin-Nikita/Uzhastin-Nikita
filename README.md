@@ -3,7 +3,7 @@
 
 ## Basic info 📝
 
-Job: Student, Teacher at the Unikum Educational Center  
+Job: -
 Location: Russia, Ivanovo  
 Hobby: Coding  
 To-do: Learn Python and JS
