@@ -3,10 +3,10 @@
 
 ## Basic info 📝
 
-Job: Student  
+Job: Software Developer 
 Location: Russia, Ivanovo  
 Hobby: Coding  
-To-do: Learn Python and JS
+To-do: Learn TS/JS
 
 
   
