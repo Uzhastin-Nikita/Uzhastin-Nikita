@@ -3,7 +3,7 @@
 
 ## Basic info 📝
 
-Job: Software Developer   
+Job: Software Developer in Digitable  
 Location: Russia, Ivanovo  
 Hobby: Coding  
 To-do: Learn TS/JS
