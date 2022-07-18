@@ -47,5 +47,7 @@ To-do: Learn TS/JS
 ## Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzhastin-Nikita&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Uzhastin-Nikita&theme=onedark)](https://github.com/Uzhastin-Nikita/github-profile-trophy)
+
 ## Codewars
 ![CodeWars](https://www.codewars.com/users/Uzhastin-Nikita/badges/large)
