@@ -9,32 +9,32 @@ Frontend developer. A specialist with good knowledge and experience in developin
 Knowledge of algorithms, web standards, core technologies, code quality requirements, latest backend and frontend technology updates.
 Active team player with experience in supporting young professionals.
 
-Languages: Javascript, Typescript, Python, HTML5, CSS3, SQL
+*Languages*: Javascript, Typescript, Python, HTML5, CSS3, SQL
 
-DBM: PostgreSQL, MySQL, SQLite, MS SQL, MongoDB
+*DBM*: PostgreSQL, MySQL, SQLite, MS SQL, MongoDB
 
-Tools: Chrome Extensions, Lighthouse, MongoDB compass, Git Bash,
+*Tools*: Chrome Extensions, Lighthouse, MongoDB compass, Git Bash,
 GitHub Desktop, VS Code Remote, Swagger, Draw.io
 
-JS: NodeJS, Express, React, React Query, React Testing Library,
+*JS*: NodeJS, Express, React, React Query, React Testing Library,
 Storybook, HTML, CSS, SCSS, Styled Components, Redux, Mobx,
 GraphQL, Vue3, Chrome Extensions, VS Code Extensions, Jest, Mocha,
 Webpack, Rollup, Babel
 
-CMS: Hugo, OpenCart
+*CMS*: Hugo, OpenCart
 
-Testing: Unit Tests, Integration Tests, Jest, Mocha/Chai, React Testing
+*Testing*: Unit Tests, Integration Tests, Jest, Mocha/Chai, React Testing
 Library, pytest
 
-CI/CD: Docker, Docker compose, Github Actions, Gitlab CI, AWS, Nginx,
+*CI/CD*: Docker, Docker compose, Github Actions, Gitlab CI, AWS, Nginx,
 SSH
 
-OS: Windows, Linux (Ubuntu, Mint, Arch, Manjaro), MacOS (Monterey,
+*OS*: Windows, Linux (Ubuntu, Mint, Arch, Manjaro), MacOS (Monterey,
 Ventura)
 
 Other: OOP and functional programming, Agile (scrum, kanban)
 
-Dev Practices: TDD, SOLID, YAGNI, DRY, KISS
+*Dev Practices*: TDD, SOLID, YAGNI, DRY, KISS
 
 
 
