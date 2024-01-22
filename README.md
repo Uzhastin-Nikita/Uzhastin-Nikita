@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/JavaScripteez" target="_blank">Nikita</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-Email: nikita.uzhastin@gmail.com
-Telegram: https://t.me/Javascripteez
-Github: https://github.com/Uzhastin-Nikita
+Email: nikita.uzhastin@gmail.com  
+Telegram: https://t.me/Javascripteez  
+Github: https://github.com/Uzhastin-Nikita  
 
 Frontend developer. A specialist with good knowledge and experience in developing in Typescript, JavaScript, Python.
 Knowledge of algorithms, web standards, core technologies, code quality requirements, latest backend and frontend technology updates.
